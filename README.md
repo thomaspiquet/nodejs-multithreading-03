@@ -142,5 +142,5 @@ I don't show you Worker B as the code is identical.
 
 ## Next Chapter
 
-Multithreading 03 - Direct Thread To Thread Communication  
+Multithreading 04 - Worker Data
 https://github.com/thomaspiquet/nodejs-multithreading-04
